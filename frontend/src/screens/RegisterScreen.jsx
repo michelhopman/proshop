@@ -59,7 +59,7 @@ export default function RegisterScreen() {
           />
         </Form.Group>
         <Form.Group controlId="email" className="my-3">
-          <Form.Label>Email Adress</Form.Label>
+          <Form.Label>Email Address</Form.Label>
           <Form.Control
             type="email"
             placeholder="Enter email"
